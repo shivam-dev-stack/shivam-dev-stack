@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Shivam 👋
+AI Full-Stack Developer building production ML apps & scalable backends.
 
-<!--
-**shivam-dev-stack/shivam-dev-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Currently building ML apps in public
+💡 Interested in SaaS, GenAI, Data Analytics
+🎯 Goal: Financial freedom via freelancing + products
 
-Here are some ideas to get you started:
+## 🧠 Tech Stack
+React • Node • Django • Python • FastAPI • Go • SQL • MongoDB • ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Featured Projects
+👉 AI Analytics Dashboard  
+👉 ML Prediction System  
+👉 Scalable Auth System  
+
+## 📈 Currently Learning
+Statistics intuition • System design • Advanced ML deployment
+
+## 🤝 Let's connect
+Portfolio: your link  
+Twitter/LinkedIn (later)
