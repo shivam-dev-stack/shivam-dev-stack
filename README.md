@@ -17,5 +17,5 @@ React • Node • Django • Python • FastAPI • Go • SQL • MongoDB • 
 Statistics intuition • System design • Advanced ML deployment
 
 ## 🤝 Let's connect
-Portfolio: your link  
+Portfolio [https://shivam-dev-stack.github.io/]
 Twitter/LinkedIn (later)
