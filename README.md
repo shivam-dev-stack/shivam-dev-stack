@@ -6,7 +6,7 @@ AI Full-Stack Developer building production ML apps & scalable backends.
 🎯 Goal: Financial freedom via freelancing + products
 
 ## 🧠 Tech Stack
-React • Node • Django • Python • FastAPI • Go • SQL • MongoDB • ML
+React • Node • Python • FastAPI • Go • SQL • MongoDB • ML • Android
 
 ## 🔥 Featured Projects
 👉 AI Analytics Dashboard  
