@@ -17,5 +17,5 @@ React • Node • Python • FastAPI • Go • SQL • MongoDB • ML • Andr
 Statistics intuition • System design • Advanced ML deployment
 
 ## 🤝 Let's connect
-[Portfolio] (https://shivam-dev-stack.github.io/)
-Twitter/LinkedIn (later)
+Portfolio (https://shivam-dev-stack.github.io/)
+Twitter/LinkedIn (https://x.com/SinghAILabs)
