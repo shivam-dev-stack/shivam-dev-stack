@@ -3,7 +3,7 @@ AI Full-Stack Developer building production ML apps & scalable backends.
 
 🚀 Currently building ML apps in public
 💡 Interested in SaaS, GenAI, Data Analytics
-🎯 Goal: Financial freedom via freelancing + products
+🎯 Goal: Research role in ml
 
 ## 🧠 Tech Stack
 React • Node • Python • FastAPI • Go • SQL • MongoDB • ML • Android
