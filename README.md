@@ -1,6 +1,4 @@
 # Hi, I'm Shivam 👋
-AI Full-Stack Developer building production ML apps & scalable backends.
-
 🚀 Currently building ML apps in public
 💡 Interested in SaaS, GenAI, Data Analytics
 🎯 Goal: Research role in ml
