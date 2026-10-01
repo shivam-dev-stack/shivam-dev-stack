@@ -15,9 +15,9 @@ React • Node • Python • FastAPI • Go • SQL • MongoDB • ML • Andr
 Statistics intuition • System design • Advanced ML deployment
 
 ## Active Projects
-👉 AI Analytics Dashboard(FeedbackIQ)
-👉 AI Nutrition Assistant (NutriAI)
-👉 Payroll System (SnapWage)
+👉 AI Analytics Dashboard(FeedbackIQ) 
+👉 AI Nutrition Assistant (NutriAI) 
+👉 Payroll System (SnapWage) 
 
 ## 🤝 Let's connect
 [Portfolio](https://shivam-dev-stack.github.io/)
