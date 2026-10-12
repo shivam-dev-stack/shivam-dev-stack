@@ -20,5 +20,5 @@ Statistics intuition • System design • Advanced ML deployment
 👉 Payroll System (SnapWage) 
 
 ## 🤝 Let's connect
-[Portfolio](https://shivam-dev-stack.github.io/)
+[Portfolio](https://hqlogic.tech)
 [Twitter](https://x.com/SinghAILabs)
